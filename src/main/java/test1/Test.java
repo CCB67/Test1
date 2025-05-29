@@ -17,6 +17,8 @@ public class Test {
 			System.out.println("Oh das tut mir leid!");
 		else 
 			System.out.println("Das habe ich nicht verstanden!");
+
+		System.out.println("Tschüss*");
 	}
 
 }
