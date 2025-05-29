@@ -18,7 +18,7 @@ public class Test {
 		else 
 			System.out.println("Das habe ich nicht verstanden!");
 
-		System.out.println("Tschüss*");
+		System.out.println("Tschüss bis bald...*");
 	}
 
 }
